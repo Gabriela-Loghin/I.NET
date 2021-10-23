@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "JRTXEl2p10esJ+64VO/dfe2vj+b2flNP46jcvv28HhfxtWIL1gb8yhwaz6laPjUBNX1EQF1qqNSbWZAxjjoxrg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Q\\Downloads\\INET.LAB4 (1)\\INET.LAB4\\Entry\\Entry.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\Q\\Downloads\\INET.LAB4 (1)\\INET.LAB4\\TSP.L2\\INET.Lab4.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\Q\\Downloads\\INET.LAB4 (1)\\INET.LAB4\\TSP.L2\\INET.Lab4.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
